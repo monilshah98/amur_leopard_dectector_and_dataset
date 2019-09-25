@@ -5,8 +5,8 @@ This is the dataset of one of the most critically endangered species Amur Leopar
 ```
 + CSV's: contains the label files (csv)
 + annotations: contains the xml files in PASCAL VOC format
-+ train-images: contains the training image data in jpg format
 + test-images: contains the testing image data in jpg format
++ train-images: contains the training image data in jpg format
 + training: contains the pipeline configuration file and labelmap file
 - a few scripts: generate_tfrecord.py is used to generate the input files
 for the TesorFlow API and xml_to_csv.py is used to convert the xml files into one csv
