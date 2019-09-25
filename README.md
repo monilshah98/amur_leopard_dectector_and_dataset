@@ -1,2 +1,3 @@
 # amur_leopard_dataset
-Dataset of one of the most critically endangered species Amur Leopard, that can be used to train your own amur-leopard detector using any Object Detector API.
+This is the dataset of one of the most critically endangered species Amur Leopard, that i collected to train my own amur-leopard detector using [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).
+
