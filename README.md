@@ -7,6 +7,7 @@ This is the dataset of one of the most critically endangered species Amur Leopar
 + CSV's: contains the label files (csv)
 + train_images: contains the training image data in jpg format
 + test_images: contains the testing image data in jpg format
++ training: contains the pipeline configuration file and labelmap file
 - a few handy scripts: generate_tfrecord.py is used to generate the input files
 for the TF API and xml_to_csv.py is used to convert the xml files into one csv
 - a few jupyter notebooks: draw boxes is used to plot some of the data and
