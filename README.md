@@ -12,6 +12,7 @@ My obsession with wild animals lead me to creating this project. This is the dat
 for the TesorFlow API and xml_to_csv.py is used to convert the xml files into one csv 
 - a few jupyter notebooks: draw outline is used to plot some of the data and 
 Amur_Leopard_Detection_Live_Tutorial is tutorial to test your model live using OpenCV.
++ train.record, test.record: are the input files for the TF object detection API
 ```
 
 Reference: [Dat Tran](https://github.com/datitran/raccoon_dataset).
