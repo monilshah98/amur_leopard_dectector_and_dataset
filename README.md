@@ -3,8 +3,8 @@ This is the dataset of one of the most critically endangered species Amur Leopar
 
 ##### Repository Structure:
 ```
-+ annotations: contains the xml files in PASCAL VOC format
 + CSV's: contains the label files (csv)
++ annotations: contains the xml files in PASCAL VOC format
 + train-images: contains the training image data in jpg format
 + test-images: contains the testing image data in jpg format
 + training: contains the pipeline configuration file and labelmap file
