@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>amur_leopard174.jpg</filename>
+	<path>C:\Users\admin\Desktop\Object-Detection\images\amur_leopard174.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>204</width>
+		<height>149</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amur_leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>35</ymin>
+			<xmax>169</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
