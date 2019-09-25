@@ -1,0 +1,26 @@
+<annotation>
+	<folder>amur_leopard</folder>
+	<filename>amur_leopard16.jpg</filename>
+	<path>D:\Deep-Learning\Deep_learning-dataset-guide\My_Dataset\Dataset_Master\amur_leopard\amur_leopard16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>amur_leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>378</xmin>
+			<ymin>238</ymin>
+			<xmax>523</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>
