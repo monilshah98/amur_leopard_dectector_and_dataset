@@ -15,4 +15,4 @@ Amur_Leopard_Detection_Live_Tutorial is tutorial to test your model live using O
 + train.record, test.record: are the input files for the TF object detection API
 ```
 
-Reference: [Dat Tran](https://github.com/datitran/raccoon_dataset).
+
