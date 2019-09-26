@@ -18,4 +18,4 @@ Amur_Leopard_Detection_Live_Tutorial is tutorial to test your model live using O
 
 ## Copyright
 See [LICENSE](LICENSE) for details.
-Copyright (c) 2019 [Monil Shah] (https://www.linkedin.com/in/monil-shah-140650142/)
+Copyright (c) 2019 [Monil Shah](https://www.linkedin.com/in/monil-shah-140650142/)
